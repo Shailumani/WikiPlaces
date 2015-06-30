@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WikiPlaces</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="place_name">Enter the name of place</string>
+    <string name="state_name">Enter the name of state</string>
+    <string name="fetching_location">Fetching location...</string>
+    <string name="title_activity_login">Login</string>
+    <string name="lang">Longitude</string>
+    <string name="lat">latttude</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_display_page">DisplayPage</string>
+
+</resources>
